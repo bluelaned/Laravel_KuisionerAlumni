@@ -4,5 +4,6 @@
 
 - **composer update**
 - php artisan migrate
+- php artisan serve
 -----------------------
 Laravel Framework 9.52.5
