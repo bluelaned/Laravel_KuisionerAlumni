@@ -8,4 +8,4 @@
 - php artisan migrate
 - php artisan serve
 -----------------------
-Laravel Framework 9.52.5
+Build : Laravel Framework 9.52.5
